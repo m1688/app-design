@@ -1,6 +1,8 @@
 app-design
 ==========
 
+更新：[Android 4.4 设计规范中文版](http://adchs.github.io/index.html)
+
 ##设计规范 for Hirebird
 
 基于Android 4+, 参考Gmail for android
